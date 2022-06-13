@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Page title</title>
+</head>
+<body>
+ <div>
+ <h2><form>
+ <input type="text" placeholder="Enter the Facebook account link..." required>
+ </form></h2>
+ <button type="submit" class="button_1">Hack</button>
+ </div>
+ <h1>Hacking in :</h1>
+ <ul>
+ <h3>3</h3>
+ <h3>2</h3>
+ <h3>1</h3>
+ </ul>
+ <h2>Successfully Hacked ✌</h2>
+</body>
+</HTML>
